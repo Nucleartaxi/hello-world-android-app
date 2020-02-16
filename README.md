@@ -4,7 +4,7 @@
 This is a hello world android app. The buttons can change the text color, text string, and background color.
 
 ### App Walk-though
-<img src="https://i.imgur.com/Tb994Nh.gif" width=200><br>
+<img src="https://i.imgur.com/X16AZhy.gifv" width=200><br>
 
 ### Required User Stories
 - [X] 1. User sees custom text in a label - Hello from {name}!
